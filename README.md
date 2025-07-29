@@ -20,7 +20,7 @@ It also includes a **dark mode toggle**, a **status bar**, and a **menu bar** fo
 ---
 
 ## **Preview**
-![App Screenshot](assets/project_screenshot.png)
+![App Screenshot](assets/project screenshot.png)
 
 ---
 
@@ -28,7 +28,7 @@ It also includes a **dark mode toggle**, a **status bar**, and a **menu bar** fo
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/qt-todo-app.git
+git clone https://github.com/Sreelakshmi-Rameshan/qt-todo-app.git
 cd qt-todo-app
 ```
 
@@ -85,7 +85,3 @@ qt_todo_app/
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## **Author**
-Developed by **YOUR NAME**.  
-Feel free to fork, improve, and share this project!
