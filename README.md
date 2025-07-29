@@ -1,7 +1,3 @@
-README.md
-markdown
-Copy
-Edit
 # PyQt5 To-Do List App 📝
 
 A simple yet feature-rich **To-Do List application** built using **Python (PyQt5)**.  
@@ -24,45 +20,46 @@ It also includes a **dark mode toggle**, a **status bar**, and a **menu bar** fo
 ---
 
 ## **Preview**
-![App Screenshot](assets/project screenshot.png)
+![App Screenshot](assets/project_screenshot.png)
 
 ---
 
 ## **Installation & Setup**
+
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/YOUR_USERNAME/qt-todo-app.git
 cd qt-todo-app
-2. Create Virtual Environment (Optional)
-bash
-Copy
-Edit
+```
+
+### **2. Create Virtual Environment (Optional)**
+```bash
 python -m venv venv
+```
 Activate it:
+- **Windows:** `venv\Scripts\activate`
+- **Mac/Linux:** `source venv/bin/activate`
 
-Windows: venv\Scripts\activate
-
-Mac/Linux: source venv/bin/activate
-
-3. Install Dependencies
-bash
-Copy
-Edit
+### **3. Install Dependencies**
+```bash
 pip install -r requirements.txt
-4. Run the App
-bash
-Copy
-Edit
+```
+
+### **4. Run the App**
+```bash
 python main.py
-Requirements
-Python 3.7+
+```
 
-PyQt5 (installed via requirements.txt)
+---
 
-Project Structure
-bash
-Copy
-Edit
+## **Requirements**
+- Python 3.7+
+- PyQt5 (installed via `requirements.txt`)
+
+---
+
+## **Project Structure**
+```
 qt_todo_app/
 ├── main.py               # Main application logic
 ├── ui/
@@ -72,3 +69,23 @@ qt_todo_app/
 ├── assets/
 │   └── icon.png          # App icon (optional)
 └── README.md             # Project documentation
+```
+
+---
+
+## **Future Improvements**
+- Add due dates and reminders for tasks.
+- Export tasks to CSV or PDF.
+- Multi-language support.
+- Build a standalone .exe or .dmg using PyInstaller.
+
+---
+
+## **License**
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## **Author**
+Developed by **YOUR NAME**.  
+Feel free to fork, improve, and share this project!
