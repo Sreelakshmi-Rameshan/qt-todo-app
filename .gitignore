@@ -1,0 +1,34 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env/
+ENV/
+env/
+.venv/
+
+# VS Code Settings
+.vscode/
+
+# macOS System Files
+.DS_Store
+
+# Windows System Files
+Thumbs.db
+
+# Logs and Cache
+*.log
+
+# PyInstaller and Build Files
+build/
+dist/
+*.spec
+
+# Task Data File
+tasks.json
+
+# Other
+*.pyo
