@@ -20,7 +20,7 @@ It also includes a **dark mode toggle**, a **status bar**, and a **menu bar** fo
 ---
 
 ## **Preview**
-![App Screenshot](assets/project screenshot.png)
+![App Screenshot](assets/project_screenshot.png)
 
 ---
 
